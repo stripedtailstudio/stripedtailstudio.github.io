@@ -1,6 +1,6 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <div><a href="{{ .Site.BaseURL }}"><img src="/img/logo_transparent.PNG"></a></div>
+    <div><a href="{{ .Site.BaseURL }}"><img src="/img/logo_transparent.PNG" class="img-responsive"></a></div>
     <!-- <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1> -->
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
