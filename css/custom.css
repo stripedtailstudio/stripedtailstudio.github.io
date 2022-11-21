@@ -1,0 +1,26 @@
+
+.box-masonry {
+/*  background: #fff;*/
+  background: #E8E8E8;
+  margin-bottom: 30px;
+  position: relative;
+  box-shadow: 0 0 5px #ccc;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*.box-masonry:hover {
+  transform: scale(1.5);
+  z-index: 10;
+}*/
+
+div.my_logo {
+   width:100px; /*width of your image*/
+   height:100px; /*height of your image*/
+   background-image:url('./img/lilac.JPG');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
