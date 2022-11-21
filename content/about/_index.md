@@ -3,8 +3,6 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-Hello
-
 It started with a red panda sticker. 
 
 We had been taking annual trips to the California north coast to hike in the redwood forest and visit the Sequioa Park Zoo in Eureka, CA. Wishing there were more red panda souvenirs at the zoo, Polina decided to design her own. Chai pitched it to the gift shop and, surprisingly, received a response!
