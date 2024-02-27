@@ -14,7 +14,7 @@ googleAnalytics = "G-P0X3EDW7C5"
   description = "Describe your website"
   copyright = "&copy;2022 Striped Tail Studio"
   sidebarAbout = [
-    "Name-drop stickers and illustrations"
+    "Custom stickers and illustrations"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
