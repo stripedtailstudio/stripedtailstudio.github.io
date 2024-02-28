@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Bush dogs"
+title = "Red panda"
 draft = false
-image = "img/portfolio/bush_dogs.jpg"
+image = "img/portfolio/red_panda_single.jpg"
 showonlyimage = false
-weight = 11
+weight = 8
 +++
