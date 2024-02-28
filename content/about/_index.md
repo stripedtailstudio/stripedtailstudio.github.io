@@ -9,9 +9,5 @@ We had been taking annual trips to the California north coast to hike in the red
 
 A few weeks and several more animal illustrations later, we had our first order. The stickers proved popular, so we're creating more.
 
-We love clean design and would like to spread the joy of custom souvenirs with a modern aesthetic.
+We love clean design and would like to spread the joy of custom souvenirs with a modern aesthetic. Our customers include zoos and botanical gardens. 
 
-
-![This is us][1]
-
-[1]: /img/business_owners.jpg
